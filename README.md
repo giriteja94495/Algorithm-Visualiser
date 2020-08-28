@@ -21,13 +21,26 @@ Different Types of path finding algorithms are visualised using pygame library
 
 # Step 3: Select Obstacle
 
-![obstacle image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/OBS_SELECT.png)
+![ image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/OBS_SELECT.png)
 
 # Step 4: Start DFS
 
-![obstacle image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/DFS_STEP.png)
+![ image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/DFS_STEP.png)
 
 # Step 5: Success
 
-![obstacle image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/SUCCESS.png)
+![ image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/SUCCESS.png)
+
+
+# Cases where there is no path
+
+## Step 1:
+
+![ image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/fail_dfs.png)
+
+## Step 2:
+
+![ image](https://github.com/giriteja94495/Algorithm-Visualiser/blob/master/Images/dfs_no_path.png)
+
+
 
